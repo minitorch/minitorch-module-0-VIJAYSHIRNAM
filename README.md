@@ -6,4 +6,4 @@
 * Docs: https://minitorch.github.io/
 
 * Overview: https://minitorch.github.io/module0.html
-<img src="![alt text](<Screenshot 2024-04-03 233940.png>)" width="50%px">
+
