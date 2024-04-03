@@ -7,3 +7,4 @@
 
 * Overview: https://minitorch.github.io/module0.html
 
+![Screenshot 2024-04-03 233940](https://github.com/minitorch/minitorch-module-0-VIJAYSHIRNAM/assets/158138318/9a48d403-398e-432d-9013-7077598931b8)
